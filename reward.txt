@@ -1,0 +1,11 @@
+
+ Total Reward for episode 1 : 950
+ Total Reward for episode 2 : 230
+ Total Reward for episode 3 : 760
+ Total Reward for episode 4 : 1190
+ Total Reward for episode 5 : 1770
+ Total Reward for episode 6 : 520
+ Total Reward for episode 7 : 1390
+ Total Reward for episode 8 : 860
+ Total Reward for episode 9 : 960
+ Total Reward for episode 10 : 900
